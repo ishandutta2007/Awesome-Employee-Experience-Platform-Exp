@@ -30,77 +30,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Employee Experience Platform (EXP) market is estimated at approximately $4.65B to $7.76B (projected to reach $11.7B–$15.4B by the early 2030s with a 9%–11% CAGR). The sector is **moderately fragmented**, balancing broad workplace ecosystem giants (Microsoft, Salesforce, Workday) that bundle EX with enterprise suites against agile, specialized pure-play platforms (Culture Amp, Lattice, Simpplr, Qualtrics) competing on deep engagement workflows and people analytics.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Salesforce Employee Experience Platform](https://www.salesforce.com/)**  
-
-  Unified employee experience platform built on Service Cloud. Features HR Service Center for case management, Employee Workspace as a digital desk, Employee Concierge for self-service, Wellbeing surveys, and Talent development tools. Integrates with Workday, SAP, and other HCM systems.
-
-
-
-- **[Microsoft Viva](https://www.microsoft.com/en-us/microsoft-viva)**  
-
-  Integrated employee experience platform built within Microsoft 365 and Teams. Six core modules: Viva Amplify (campaign management), Viva Connections (customizable dashboard), Viva Engage (social community), Viva Glint (engagement surveys), Viva Insights (productivity analytics), Viva Learning (enterprise learning), Viva Goals (OKR alignment), and Viva Pulse (lightweight feedback) .
-
-
-
-- **[Culture Amp](https://www.cultureamp.com/)**  
-
-  Leading employee engagement platform combining surveys, performance reviews, and people analytics. Known for research-backed survey methodology and action planning.
-
-
-
-- **[Lattice](https://lattice.com/)**  
-
-  Performance management and employee engagement platform. Features OKRs, reviews, feedback, and engagement surveys integrated into a unified people platform.
-
-
-
-- **[15Five](https://www.15five.com/)**  
-
-  Manager effectiveness and continuous performance platform. Features weekly check-ins, one-on-ones, objectives, engagement surveys, and manager coaching. Pricing starts at $4/user/month for surveys and $16/user/month for the full platform .
-
-
-
-- **[Workvivo (Zoom)](https://www.workvivo.com/)**  
-
-  Communication-led engagement platform acquired by Zoom. Features social intranet, employee communications, mobile app, video, live streams, recognition, surveys, and analytics. Best for distributed and frontline workforces prioritizing communication and community .
-
-
-
-- **[Simpplr](https://www.simpplr.com/)**  
-
-  AI-powered intranet and internal communications platform. Features modern intranet, targeted communications, employee search, knowledge discovery, social engagement, newsletters, and analytics. Differentiates through polished internal-communication experience and AI-assisted content discovery .
-
-
-
-- **[Peakon (Workday)](https://www.workday.com/)**  
-
-  Employee engagement and people analytics platform acquired by Workday. Features continuous listening, predictive analytics, and actionable insights for managers.
-
-
-
-- **[Qualtrics EmployeeXM](https://www.qualtrics.com/employee-experience/)**  
-
-  Enterprise experience management platform for employee feedback. Features engagement surveys, lifecycle research, and AI-powered text analytics.
-
-
-
-- **[Achievers](https://www.achievers.com/)**  
-
-  Employee recognition and rewards platform. Features social recognition, points-based rewards, and engagement analytics. Pricing available on quote only .
+| Platform | Company Valuation / Revenue | Starting Pricing | Free Tier / Free Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Viva](https://www.microsoft.com/en-us/microsoft-viva)** | ~$3.98T Market Cap (Microsoft) | $12.00/user/month (Viva Suite, billed annually); sub-bundles start at $2.00/user/month | Included base features (Viva Connections & basic Insights) with M365/O365 Enterprise plans; 30-day free trial for premium modules | Integrated employee experience suite inside Microsoft 365 and Teams spanning Viva Connections, Insights, Glint, Learning, Amplify, and Goals. |
+| **[Salesforce Employee Experience Platform](https://www.salesforce.com/)** | ~$190B Market Cap (Salesforce) | $15.00/user/month (Agentforce Employee / AI service access, billed annually); Service Cloud starting tier at $25.00/user/month | 30-day free trial (Service Cloud / platform trials) | Unified employee experience platform built on Service Cloud featuring HR Service Center, Employee Concierge, and Agentforce self-service workflows. |
+| **[Peakon (Workday)](https://www.workday.com/)** | $700M acquisition valuation; ~$48B Market Cap (Workday) | $20,000/year base platform floor (approx. $3.50–$6.00/employee/month at volume) | No permanent free tier; 90-day trial offered periodically via partner programs or guided sales sandbox demos | Continuous employee listening, sentiment tracking, and predictive people analytics platform integrated into Workday HCM. |
+| **[Workvivo (Zoom)](https://www.workvivo.com/)** | ~$28.5B Market Cap (Zoom, acquired Workvivo in 2023) | ~$5.00–$10.00/user/month (typical contract floor starting at $20,000/year, billed annually) | No free tier or self-serve trial; live guided sandbox demonstration provided upon sales consultation | Communication-led social intranet and engagement hub featuring mobile activity feeds, livestreaming, recognition, and workplace community tools. |
+| **[Qualtrics EmployeeXM](https://www.qualtrics.com/employee-experience/)** | $12.5B acquisition valuation (Silver Lake) | $1,500/month (~$18,000/year starting contract floor for mid-market listening packages) | Free tier available (Qualtrics Surveys: 500 responses, 3 active surveys limit); 30-day free trial for advanced research tiers | Enterprise experience management platform for lifecycle feedback, pulse surveys, 360 reviews, and AI sentiment analytics. |
+| **[Lattice](https://lattice.com/)** | $3.0B valuation (Series F) | $11.00/user/month (Performance module, billed annually; $4,000/year minimum spend threshold) | No permanent free tier or self-serve trial; custom guided product demo sandbox on consultation | Performance management, OKRs, career growth planning, and engagement survey platform for modern HR teams. |
+| **[Culture Amp](https://www.cultureamp.com/)** | $1.5B valuation (Series F) | ~$5.00–$14.00/employee/month (billed annually; minimum contract entry typically ~$4,500/year) | No permanent free tier or self-serve trial; scheduled interactive product walk-through demo only | People analytics, employee engagement pulse surveys, and science-backed performance review platform. |
+| **[Simpplr](https://www.simpplr.com/)** | ~$350M–$500M valuation (Series D) | £4.00/user/month (~$5.00/user/month base intranet tier under public frameworks; standard implementations start at ~$10,000+) | 14-day free trial (sales-coordinated evaluation sandbox) | AI-powered modern intranet and internal communication platform offering personalized feeds, smart search, and employee advocacy. |
+| **[15Five](https://www.15five.com/)** | ~$150M–$250M valuation; ~$50M ARR | $4.00/user/month (Engage tier, billed annually); $11.00/user/month (Perform); $16.00/user/month (Total Platform) | 14-day free trial (full platform feature access without credit card) | Manager enablement and performance management platform featuring weekly check-ins, 1-on-1s, OKRs, and pulse surveys. |
+| **[Achievers](https://www.achievers.com/)** | $110M acquisition valuation; ~$50M ARR | ~$3.00–$8.00/employee/month licensing (mid/enterprise deployments typically require $50,000–$100,000+ annual spend including reward pools) | No permanent free tier or self-serve trial; guided pilot demonstration on sales scoping | Employee recognition and points-based rewards platform with peer-to-peer social recognition, digital rewards catalog, and analytics. |
 
 
 

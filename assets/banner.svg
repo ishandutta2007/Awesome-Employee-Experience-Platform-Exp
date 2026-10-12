@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="360" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+
+    <!-- Vibrant Gradient Accents -->
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.05" />
+    </linearGradient>
+
+    <!-- Card Background Gradient -->
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.09" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02" />
+    </linearGradient>
+
+    <!-- Filter for Glow Effects -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <style>
+      .title-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 800;
+        font-size: 42px;
+        fill: #ffffff;
+        letter-spacing: -0.5px;
+      }
+      .subtitle-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 500;
+        font-size: 19px;
+        fill: #94a3b8;
+      }
+      .badge-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 600;
+        font-size: 12px;
+        fill: #38bdf8;
+        letter-spacing: 0.5px;
+      }
+      .pill-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 600;
+        font-size: 13px;
+        fill: #e2e8f0;
+      }
+      .node-pulse {
+        animation: pulse 3s infinite ease-in-out;
+      }
+      .wave-flow {
+        stroke-dasharray: 8 6;
+        animation: flow 20s linear infinite;
+      }
+      .float-pill {
+        animation: float 4s ease-in-out infinite;
+      }
+      @keyframes flow {
+        from { stroke-dashoffset: 200; }
+        to { stroke-dashoffset: 0; }
+      }
+      @keyframes pulse {
+        0%, 100% { transform: scale(1); opacity: 0.8; }
+        50% { transform: scale(1.15); opacity: 1; }
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-6px); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background Base Canvas -->
+  <rect width="1200" height="360" rx="16" fill="url(#bgGrad)" />
+
+  <!-- Subtle Border Stroke -->
+  <rect width="1198" height="358" x="1" y="1" rx="15" fill="none" stroke="url(#accentGrad)" stroke-width="1.5" stroke-opacity="0.4" />
+
+  <!-- Background Ambient Glow Spheres (Layer 1 - deep background) -->
+  <circle cx="150" cy="80" r="130" fill="url(#glowGrad)" filter="url(#glow)" />
+  <circle cx="1080" cy="280" r="160" fill="url(#glowGrad)" filter="url(#glow)" />
+
+  <!-- Dynamic Data Flow Curves in Background (Layer 2) -->
+  <g opacity="0.35">
+    <path d="M 50 300 C 300 220, 500 340, 750 260 C 950 200, 1050 290, 1150 240" fill="none" stroke="#38bdf8" stroke-width="2.5" class="wave-flow" />
+    <path d="M 80 80 C 350 140, 600 40, 850 120 C 1020 180, 1100 90, 1160 110" fill="none" stroke="#818cf8" stroke-width="2" class="wave-flow" />
+    <path d="M 200 330 C 450 280, 700 350, 950 280 C 1050 250, 1120 300, 1180 270" fill="none" stroke="#c084fc" stroke-width="1.5" class="wave-flow" />
+  </g>
+
+  <!-- Dynamic Connected Network Nodes in Lower Background (Layer 3) -->
+  <g opacity="0.45">
+    <line x1="880" y1="80" x2="980" y2="120" stroke="#818cf8" stroke-width="1.5" />
+    <line x1="980" y1="120" x2="1080" y2="90" stroke="#818cf8" stroke-width="1.5" />
+    <line x1="980" y1="120" x2="1030" y2="190" stroke="#818cf8" stroke-width="1.5" />
+    <line x1="1030" y1="190" x2="1130" y2="170" stroke="#818cf8" stroke-width="1.5" />
+
+    <circle cx="880" cy="80" r="5" fill="#38bdf8" />
+    <circle cx="980" cy="120" r="7" fill="#818cf8" />
+    <circle cx="1080" cy="90" r="5" fill="#c084fc" />
+    <circle cx="1030" cy="190" r="6" fill="#38bdf8" />
+    <circle cx="1130" cy="170" r="5" fill="#a855f7" />
+  </g>
+
+  <!-- FOREGROUND LAYER: Content Section (Unobstructed & Crisp) -->
+  <!-- Tag / Category Chip -->
+  <g transform="translate(80, 50)">
+    <rect width="250" height="30" rx="15" fill="#0369a1" fill-opacity="0.35" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.6" />
+    <circle cx="16" cy="15" r="4" fill="#38bdf8" />
+    <text x="30" y="20" class="badge-text">DIGITAL WORKPLACE &amp; HR TECH</text>
+  </g>
+
+  <!-- Main Title with Gradient fill -->
+  <g transform="translate(80, 130)">
+    <text class="title-text">Awesome Employee Experience</text>
+    <text x="618" y="0" class="title-text" fill="url(#accentGrad)">Platform</text>
+  </g>
+
+  <!-- Subtitle -->
+  <g transform="translate(80, 172)">
+    <text class="subtitle-text">Curated Enterprise SaaS Leaders &amp; Open-Source Projects for Modern Workplace Analytics</text>
+  </g>
+
+  <!-- Interactive Dynamic Metric Pills in Lower Canvas -->
+  <g transform="translate(80, 225)">
+    <!-- Pill 1: Engagement & Pulse -->
+    <g class="float-pill" style="animation-delay: 0s;">
+      <rect width="200" height="52" rx="12" fill="url(#cardGrad)" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.4" />
+      <text x="22" y="32" font-size="20">💬</text>
+      <text x="52" y="32" class="pill-text">Pulse &amp; Engagement</text>
+    </g>
+
+    <!-- Pill 2: Social Intranet -->
+    <g transform="translate(220, 0)" class="float-pill" style="animation-delay: 1s;">
+      <rect width="190" height="52" rx="12" fill="url(#cardGrad)" stroke="#818cf8" stroke-width="1" stroke-opacity="0.4" />
+      <text x="20" y="32" font-size="20">🌐</text>
+      <text x="50" y="32" class="pill-text">Social Intranet</text>
+    </g>
+
+    <!-- Pill 3: Recognition & Rewards -->
+    <g transform="translate(430, 0)" class="float-pill" style="animation-delay: 2s;">
+      <rect width="210" height="52" rx="12" fill="url(#cardGrad)" stroke="#c084fc" stroke-width="1" stroke-opacity="0.4" />
+      <text x="20" y="32" font-size="20">🏆</text>
+      <text x="50" y="32" class="pill-text">Peer Recognition</text>
+    </g>
+
+    <!-- Pill 4: People Analytics -->
+    <g transform="translate(660, 0)" class="float-pill" style="animation-delay: 1.5s;">
+      <rect width="210" height="52" rx="12" fill="url(#cardGrad)" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.4" />
+      <text x="20" y="32" font-size="20">📊</text>
+      <text x="50" y="32" class="pill-text">Workplace Analytics</text>
+    </g>
+
+    <!-- Pill 5: Self-Hosted EXP -->
+    <g transform="translate(890, 0)" class="float-pill" style="animation-delay: 0.5s;">
+      <rect width="180" height="52" rx="12" fill="url(#cardGrad)" stroke="#818cf8" stroke-width="1" stroke-opacity="0.4" />
+      <text x="20" y="32" font-size="20">⚡</text>
+      <text x="50" y="32" class="pill-text">Self-Hosted EXP</text>
+    </g>
+  </g>
+
+  <!-- Bottom Accent Status Line -->
+  <line x1="80" y1="315" x2="1120" y2="315" stroke="url(#accentGrad)" stroke-width="1.5" stroke-opacity="0.3" />
+</svg>

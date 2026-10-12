@@ -1,46 +1,46 @@
-# Awesome-Employee-Experience-Platform-Exp
+<div align="center">
 
-## Top Employee Experience Platform (EXP) Ecosystem
+<img src="./assets/banner.svg" alt="Awesome Employee Experience Platform (EXP) Ecosystem Banner" width="100%" />
 
+# 🌟 Awesome Employee Experience Platform (EXP) Ecosystem 🚀
 
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Employee-Experience-Platform-Exp)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+<p align="center">
+  <strong>Curated Directory of Enterprise SaaS Solutions &amp; Open-Source Projects for Digital Workplace, Internal Communications, People Analytics, and Employee Engagement</strong>
+</p>
 
-*Focused on Employee Engagement, Internal Communications & Workplace Analytics*  
+<p align="center">
+  <em>Updated regularly to track top HR tech platforms, pulse survey engines, social intranets, and recognition systems.</em>
+</p>
 
-**Last updated: March 2026**
+</div>
 
+---
 
+## 📖 Table of Contents
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Employee Experience Platforms (EXP)**. These tools enable organizations to measure engagement, facilitate internal communications, recognize employees, support manager effectiveness, and create connected digital workplaces.
+- [🔍 Sector Overview &amp; Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⚠️ Disclaimer](#️-disclaimer)
 
+---
 
+## 🔍 Sector Overview & Market Dynamics
 
-**Examples** include Salesforce Employee Experience Platform, Microsoft Viva, Culture Amp, Lattice, 15Five, Workvivo, Simpplr, Peakon, Qualtrics EmployeeXM, and Achievers (the category leaders).
+The global **Employee Experience Platform (EXP)** market is estimated at approximately **$4.65B to $7.76B** (projected to reach **$11.7B–$15.4B** by the early 2030s with a **9%–11% CAGR**). The sector is **moderately fragmented**, balancing broad workplace ecosystem giants (*Microsoft*, *Salesforce*, *Workday*) that bundle EX with enterprise productivity and CRM suites against agile, specialized pure-play platforms (*Culture Amp*, *Lattice*, *Simpplr*, *Qualtrics*) competing on deep engagement workflows, managerial coaching, and predictive people analytics.
 
+---
 
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, custom engagement workflows, and open workplace analytics — ideal for HR teams, developers, and organizations seeking transparent, vendor-independent employee experience solutions.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global Employee Experience Platform (EXP) market is estimated at approximately $4.65B to $7.76B (projected to reach $11.7B–$15.4B by the early 2030s with a 9%–11% CAGR). The sector is **moderately fragmented**, balancing broad workplace ecosystem giants (Microsoft, Salesforce, Workday) that bundle EX with enterprise suites against agile, specialized pure-play platforms (Culture Amp, Lattice, Simpplr, Qualtrics) competing on deep engagement workflows and people analytics.
-
-## SaaS/Hosted Platforms
+## 💼 SaaS/Hosted Platforms
 
 | Platform | Company Valuation / Revenue | Starting Pricing | Free Tier / Free Trial Limits | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -55,98 +55,98 @@ The global Employee Experience Platform (EXP) market is estimated at approximate
 | **[15Five](https://www.15five.com/)** | ~$150M–$250M valuation; ~$50M ARR | $4.00/user/month (Engage tier, billed annually); $11.00/user/month (Perform); $16.00/user/month (Total Platform) | 14-day free trial (full platform feature access without credit card) | Manager enablement and performance management platform featuring weekly check-ins, 1-on-1s, OKRs, and pulse surveys. |
 | **[Achievers](https://www.achievers.com/)** | $110M acquisition valuation; ~$50M ARR | ~$3.00–$8.00/employee/month licensing (mid/enterprise deployments typically require $50,000–$100,000+ annual spend including reward pools) | No permanent free tier or self-serve trial; guided pilot demonstration on sales scoping | Employee recognition and points-based rewards platform with peer-to-peer social recognition, digital rewards catalog, and analytics. |
 
+---
 
+## 🔓 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+Curated self-hosted platforms and open-source frameworks for digital workplace hubs, sentiment analysis, pulse surveys, and employee recognition — ordered by GitHub stars (descending):
 
+1. **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+   ✨ Fair-code workflow automation platform (TypeScript/Node.js). Widely utilized by People Ops engineering teams to automate employee onboarding, automated Slack/Teams pulse surveys, HRIS synchronization, and experience lifecycle triggers.
 
+2. **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
+   💬 Open-source team communications hub (GPL-3.0) with matrix federation, omnichannel workplace engagement tools, departmental channels, interactive apps, and integrated employee surveys.
 
-- **[erxes](https://github.com/Erxes/Erxes)**  
+3. **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)  
+   🛡️ Secure, open-source enterprise collaboration and digital workplace platform (Go/React). Features Playbooks, structured collaboration workflows, and plugins for continuous pulse polling and employee check-ins.
 
-  Source-available experience management infrastructure (TypeScript, 3,639+ stars) positioning itself as a HubSpot + Qualtrics alternative. Features employee experience modules, experience management, and engagement tools. Topics include employee-experience, customer-experience, and experience-operating-system .
+4. **[Nextcloud Server](https://github.com/nextcloud/server)** [![GitHub stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
+   ☁️ Self-hosted productivity and collaboration suite (AGPL-3.0). Serves as a private intranet and digital workplace with Nextcloud Hub, interactive dashboards, file sharing, team talk, calendar, and employee portal integrations.
 
+5. **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
+   📝 Open-source experience management and micro-survey platform (AGPL-3.0, Next.js/TypeScript). Self-hosted alternative to Qualtrics for running in-app employee pulse surveys, onboarding feedback, eNPS assessments, and satisfaction analytics.
 
+6. **[Frappe HRMS](https://github.com/frappe/hrms)** [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)  
+   👥 Open-source modern HR and employee experience platform (GPL-3.0, Python/JS). Features comprehensive employee self-service portal, lifecycle transitions, performance appraisal cycles, energy points (peer appreciation), and leave management.
 
-- **[Simoona](https://github.com/VismaLietuva/simoona)**  
+7. **[HumHub](https://github.com/humhub/humhub)** [![GitHub stars](https://img.shields.io/github/stars/humhub/humhub?style=social&color=white)](https://github.com/humhub/humhub/stargazers)  
+   🌐 Flexible open-source social intranet and enterprise networking kit (AGPL-3.0, PHP/Yii). Enables organizations to deploy employee directories, social feeds, space-based collaboration, recognition posts, and custom team modules.
 
-  Open-source social intranet solution (C#, GPL-3.0) built by Visma. Features Wall for social sharing and discussions, Employee directory with profiles, Kudos peer recognition system, and social networking capabilities. Designed to make communication more intuitive and empowering. Available via Docker or IIS deployment .
+8. **[erxes](https://github.com/Erxes/Erxes)** [![GitHub stars](https://img.shields.io/github/stars/Erxes/Erxes?style=social&color=white)](https://github.com/Erxes/Erxes/stargazers)  
+   🚀 Source-available experience management operating system (TypeScript). Positions itself as an open Qualtrics + HubSpot alternative with dedicated employee experience modules, task tracking, surveys, and engagement automation.
 
+9. **[Plone CMS](https://github.com/plone/Products.CMFPlone)** [![GitHub stars](https://img.shields.io/github/stars/plone/Products.CMFPlone?style=social&color=white)](https://github.com/plone/Products.CMFPlone/stargazers)  
+   🏛️ Battle-tested enterprise open-source content management system and intranet framework (GPL-2.0, Python). Renowned for enterprise-grade security, access governance, departmental knowledge bases, and staff portals.
 
+10. **[Meeds](https://github.com/Meeds-io/meeds)** [![GitHub stars](https://img.shields.io/github/stars/Meeds-io/meeds?style=social&color=white)](https://github.com/Meeds-io/meeds/stargazers)  
+    🏅 Decentralized open-source employee engagement and recognition platform (LGPL-3.0, Java). Empowers organizations with peer kudos, gamified recognition, achievement badges, community hubs, and rewards.
 
-- **[WorkMate](https://github.com/karlis0099/WorkMate)**  
+11. **[Twake Workplace](https://github.com/linagora/twake-workplace)** [![GitHub stars](https://img.shields.io/github/stars/linagora/twake-workplace?style=social&color=white)](https://github.com/linagora/twake-workplace/stargazers)  
+    🖥️ Open-source collaborative digital workplace platform (AGPL-3.0). Combines file collaboration, instant messaging, audio/video conferencing, task management, and document workflows into a unified internal workspace.
 
-  Employee wellbeing platform (Java) with weekly check-ins and burnout risk tracking. Features 7 psychological wellbeing dimensions (mood, energy, motivation, stress, work-life balance, team connection, accomplishment), real-time composite score, manager dashboard with heat-map colored survey data, and Slack/Teams-compatible burnout webhooks. SQLite persistence with SHA-256+salt authentication. Runs silently in system tray with web UI at localhost:8765 .
+12. **[Simoona](https://github.com/VismaLietuva/simoona)** [![GitHub stars](https://img.shields.io/github/stars/VismaLietuva/simoona?style=social&color=white)](https://github.com/VismaLietuva/simoona/stargazers)  
+    📢 Open-source social intranet platform (GPL-3.0, C#/.NET) built by Visma. Features social feed walls, rich employee directories with skills profiles, kudos peer recognition, and organizational announcements.
 
+13. **[WorkMate](https://github.com/karlis0099/WorkMate)** [![GitHub stars](https://img.shields.io/github/stars/karlis0099/WorkMate?style=social&color=white)](https://github.com/karlis0099/WorkMate/stargazers)  
+    🧘 Self-hosted employee wellbeing and burnout risk tracking system (Java). Measures 7 psychological wellbeing dimensions with manager heatmaps, automated check-in pulses, and Slack/Teams burnout webhooks.
 
+14. **[Digital Workplace Employee Hub](https://github.com/WRVish/digital-workplace-employee-hub)** [![GitHub stars](https://img.shields.io/github/stars/WRVish/digital-workplace-employee-hub?style=social&color=white)](https://github.com/WRVish/digital-workplace-employee-hub/stargazers)  
+    🏢 Open-source modern employee portal for Microsoft 365 (React/TypeScript). Available as Power Apps SPA and SharePoint Framework (SPFx) Web Part with leave administration, asset workflows, and ticketing.
 
-- **[Digital Workplace Employee Hub](https://github.com/WRVish/digital-workplace-employee-hub)**  
-
-  Free open-source employee portal for Microsoft 365 (React, TypeScript). Two versions: Power Apps Code App (standalone SPA) and SharePoint Framework (SPFx) Web Part for native SharePoint integration. Features user management, leave administration, asset management, expense & travel management, and ticketing. Role-based access control with glassmorphism design and dark mode support .
-
-
-
-- **[Axero Intranet Hub](https://github.com/Tech-Vexy/axero-intranet-hub)**  
-
-  Modern responsive intranet portal (HTML/CSS/JavaScript, MIT). Features user authentication with role-based access, interactive dashboard with real-time metrics, team spotlights for recognition, employee directory, communication hub with chat, activity feed, and admin panel. Uses IndexedDB for client-side persistence .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Open Intranet](https://github.com/search?q=open+source+intranet)** — Community projects for self-hosted intranet and employee portals.
-
-- **[HumHub](https://github.com/humhub/humhub)** — Open-source social network (AGPL-3.0) adaptable for employee communities and internal social networking.
-
-- **[Mattermost](https://github.com/mattermost/mattermost)** — Open-source team communication (MIT) with playbooks and workflow automation for employee engagement.
-
-- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** — Open-source team communication (MIT) with omnichannel engagement features.
-
-- **[Nextcloud](https://github.com/nextcloud/server)** — Open-source file sync and collaboration platform with employee hub capabilities.
-
-- Community **n8n** workflows for engagement survey automation and HRIS sync.
-
-
-
-**Frameworks for building custom systems**: Combine **erxes** or **Simoona** as the social intranet core with **WorkMate** for wellbeing tracking, **Digital Workplace Employee Hub** for M365 integration, and **PostgreSQL** for persistence — creating a fully self-hosted, enterprise-grade employee experience platform.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Employee experience platforms handling personnel data must comply with data protection regulations (GDPR, CCPA, etc.).
-
-- Self-hosted open-source solutions require proper security hardening, HRIS integration configuration, and ongoing maintenance for production reliability.
-
-
+15. **[Axero Intranet Hub](https://github.com/Tech-Vexy/axero-intranet-hub)** [![GitHub stars](https://img.shields.io/github/stars/Tech-Vexy/axero-intranet-hub?style=social&color=white)](https://github.com/Tech-Vexy/axero-intranet-hub/stargazers)  
+    💡 Lightweight client-side intranet portal (MIT, JavaScript/CSS). Features role-based access, employee recognition spotlights, interactive directory, chat communication hub, and metrics dashboard.
 
 ---
 
+## 📈 Star History
 
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Employee-Experience-Platform-Exp&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Employee-Experience-Platform-Exp&type=date&legend=top-left)
 
-**Made for HR teams, people operations, internal communications professionals, and developers building transparent employee experience solutions.**  
+---
 
-Let's make Employee Experience Platforms more open, data-driven, and human-centered.
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help make this the most complete and transparent Employee Experience directory:
+
+1. 🍴 Fork the repository.
+2. 🌿 Create your feature branch (`git checkout -b feature/add-new-exp`).
+3. 📝 Add or update entries in `README.md` following the established table / badge structure. Include factual pricing, free tiers, and links.
+4. 🚀 Commit your changes (`git commit -m 'Add awesome EXP platform'`).
+5. 📬 Push to the branch (`git push origin feature/add-new-exp`) and open a Pull Request.
+
+---
+
+## 💖 Support
+
+Thank you for exploring and supporting this initiative! Building and maintaining high-quality, transparent curated ecosystems requires ongoing research, data validation, and maintenance.
+
+If you find this repository valuable, please consider:
+- ⭐ **Starring** this repository to help others discover it
+- 🍴 **Forking** and contributing new tools or corrections
+- 📢 **Sharing** with your colleagues, HR engineering communities, and networks
+- ☕ **Buying a coffee / sponsoring** the project via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a **community-curated guide** intended for research, evaluation, and informational purposes. It does not constitute a formal commercial endorsement.
+- All trademarks, logos, and brand names are the property of their respective owners.
+- When deploying employee experience platforms handling employee pulse answers and PII, ensure full compliance with regional privacy laws (e.g., GDPR, CCPA/CPRA, HIPAA).
+- Self-hosted open-source software should undergo rigorous security auditing, database backup testing, and RBAC hardening prior to enterprise production use.
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ for People Operations teams, HR technologists, and developers creating human-centric digital workplaces.</sub>
+</div>

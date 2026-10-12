@@ -59,51 +59,51 @@ The global **Employee Experience Platform (EXP)** market is estimated at approxi
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated self-hosted platforms and open-source frameworks for digital workplace hubs, sentiment analysis, pulse surveys, and employee recognition — ordered by GitHub stars (descending):
+Curated self-hosted platforms and open-source frameworks for digital workplace hubs, sentiment analysis, pulse surveys, and employee recognition — ordered by GitHub_Stars (descending):
 
-1. **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+1. **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
    ✨ Fair-code workflow automation platform (TypeScript/Node.js). Widely utilized by People Ops engineering teams to automate employee onboarding, automated Slack/Teams pulse surveys, HRIS synchronization, and experience lifecycle triggers.
 
-2. **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
+2. **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub_Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
    💬 Open-source team communications hub (GPL-3.0) with matrix federation, omnichannel workplace engagement tools, departmental channels, interactive apps, and integrated employee surveys.
 
-3. **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)  
+3. **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub_Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)  
    🛡️ Secure, open-source enterprise collaboration and digital workplace platform (Go/React). Features Playbooks, structured collaboration workflows, and plugins for continuous pulse polling and employee check-ins.
 
-4. **[Nextcloud Server](https://github.com/nextcloud/server)** [![GitHub stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
+4. **[Nextcloud Server](https://github.com/nextcloud/server)** [![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
    ☁️ Self-hosted productivity and collaboration suite (AGPL-3.0). Serves as a private intranet and digital workplace with Nextcloud Hub, interactive dashboards, file sharing, team talk, calendar, and employee portal integrations.
 
-5. **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
+5. **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub_Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
    📝 Open-source experience management and micro-survey platform (AGPL-3.0, Next.js/TypeScript). Self-hosted alternative to Qualtrics for running in-app employee pulse surveys, onboarding feedback, eNPS assessments, and satisfaction analytics.
 
-6. **[Frappe HRMS](https://github.com/frappe/hrms)** [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)  
+6. **[Frappe HRMS](https://github.com/frappe/hrms)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)  
    👥 Open-source modern HR and employee experience platform (GPL-3.0, Python/JS). Features comprehensive employee self-service portal, lifecycle transitions, performance appraisal cycles, energy points (peer appreciation), and leave management.
 
-7. **[HumHub](https://github.com/humhub/humhub)** [![GitHub stars](https://img.shields.io/github/stars/humhub/humhub?style=social&color=white)](https://github.com/humhub/humhub/stargazers)  
+7. **[HumHub](https://github.com/humhub/humhub)** [![GitHub_Stars](https://img.shields.io/github/stars/humhub/humhub?style=social&color=white)](https://github.com/humhub/humhub/stargazers)  
    🌐 Flexible open-source social intranet and enterprise networking kit (AGPL-3.0, PHP/Yii). Enables organizations to deploy employee directories, social feeds, space-based collaboration, recognition posts, and custom team modules.
 
-8. **[erxes](https://github.com/Erxes/Erxes)** [![GitHub stars](https://img.shields.io/github/stars/Erxes/Erxes?style=social&color=white)](https://github.com/Erxes/Erxes/stargazers)  
+8. **[erxes](https://github.com/Erxes/Erxes)** [![GitHub_Stars](https://img.shields.io/github/stars/Erxes/Erxes?style=social&color=white)](https://github.com/Erxes/Erxes/stargazers)  
    🚀 Source-available experience management operating system (TypeScript). Positions itself as an open Qualtrics + HubSpot alternative with dedicated employee experience modules, task tracking, surveys, and engagement automation.
 
-9. **[Plone CMS](https://github.com/plone/Products.CMFPlone)** [![GitHub stars](https://img.shields.io/github/stars/plone/Products.CMFPlone?style=social&color=white)](https://github.com/plone/Products.CMFPlone/stargazers)  
+9. **[Plone CMS](https://github.com/plone/Products.CMFPlone)** [![GitHub_Stars](https://img.shields.io/github/stars/plone/Products.CMFPlone?style=social&color=white)](https://github.com/plone/Products.CMFPlone/stargazers)  
    🏛️ Battle-tested enterprise open-source content management system and intranet framework (GPL-2.0, Python). Renowned for enterprise-grade security, access governance, departmental knowledge bases, and staff portals.
 
-10. **[Meeds](https://github.com/Meeds-io/meeds)** [![GitHub stars](https://img.shields.io/github/stars/Meeds-io/meeds?style=social&color=white)](https://github.com/Meeds-io/meeds/stargazers)  
+10. **[Meeds](https://github.com/Meeds-io/meeds)** [![GitHub_Stars](https://img.shields.io/github/stars/Meeds-io/meeds?style=social&color=white)](https://github.com/Meeds-io/meeds/stargazers)  
     🏅 Decentralized open-source employee engagement and recognition platform (LGPL-3.0, Java). Empowers organizations with peer kudos, gamified recognition, achievement badges, community hubs, and rewards.
 
-11. **[Twake Workplace](https://github.com/linagora/twake-workplace)** [![GitHub stars](https://img.shields.io/github/stars/linagora/twake-workplace?style=social&color=white)](https://github.com/linagora/twake-workplace/stargazers)  
+11. **[Twake Workplace](https://github.com/linagora/twake-workplace)** [![GitHub_Stars](https://img.shields.io/github/stars/linagora/twake-workplace?style=social&color=white)](https://github.com/linagora/twake-workplace/stargazers)  
     🖥️ Open-source collaborative digital workplace platform (AGPL-3.0). Combines file collaboration, instant messaging, audio/video conferencing, task management, and document workflows into a unified internal workspace.
 
-12. **[Simoona](https://github.com/VismaLietuva/simoona)** [![GitHub stars](https://img.shields.io/github/stars/VismaLietuva/simoona?style=social&color=white)](https://github.com/VismaLietuva/simoona/stargazers)  
+12. **[Simoona](https://github.com/VismaLietuva/simoona)** [![GitHub_Stars](https://img.shields.io/github/stars/VismaLietuva/simoona?style=social&color=white)](https://github.com/VismaLietuva/simoona/stargazers)  
     📢 Open-source social intranet platform (GPL-3.0, C#/.NET) built by Visma. Features social feed walls, rich employee directories with skills profiles, kudos peer recognition, and organizational announcements.
 
-13. **[WorkMate](https://github.com/karlis0099/WorkMate)** [![GitHub stars](https://img.shields.io/github/stars/karlis0099/WorkMate?style=social&color=white)](https://github.com/karlis0099/WorkMate/stargazers)  
+13. **[WorkMate](https://github.com/karlis0099/WorkMate)** [![GitHub_Stars](https://img.shields.io/github/stars/karlis0099/WorkMate?style=social&color=white)](https://github.com/karlis0099/WorkMate/stargazers)  
     🧘 Self-hosted employee wellbeing and burnout risk tracking system (Java). Measures 7 psychological wellbeing dimensions with manager heatmaps, automated check-in pulses, and Slack/Teams burnout webhooks.
 
-14. **[Digital Workplace Employee Hub](https://github.com/WRVish/digital-workplace-employee-hub)** [![GitHub stars](https://img.shields.io/github/stars/WRVish/digital-workplace-employee-hub?style=social&color=white)](https://github.com/WRVish/digital-workplace-employee-hub/stargazers)  
+14. **[Digital Workplace Employee Hub](https://github.com/WRVish/digital-workplace-employee-hub)** [![GitHub_Stars](https://img.shields.io/github/stars/WRVish/digital-workplace-employee-hub?style=social&color=white)](https://github.com/WRVish/digital-workplace-employee-hub/stargazers)  
     🏢 Open-source modern employee portal for Microsoft 365 (React/TypeScript). Available as Power Apps SPA and SharePoint Framework (SPFx) Web Part with leave administration, asset workflows, and ticketing.
 
-15. **[Axero Intranet Hub](https://github.com/Tech-Vexy/axero-intranet-hub)** [![GitHub stars](https://img.shields.io/github/stars/Tech-Vexy/axero-intranet-hub?style=social&color=white)](https://github.com/Tech-Vexy/axero-intranet-hub/stargazers)  
+15. **[Axero Intranet Hub](https://github.com/Tech-Vexy/axero-intranet-hub)** [![GitHub_Stars](https://img.shields.io/github/stars/Tech-Vexy/axero-intranet-hub?style=social&color=white)](https://github.com/Tech-Vexy/axero-intranet-hub/stargazers)  
     💡 Lightweight client-side intranet portal (MIT, JavaScript/CSS). Features role-based access, employee recognition spotlights, interactive directory, chat communication hub, and metrics dashboard.
 
 ---
